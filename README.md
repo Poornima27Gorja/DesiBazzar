@@ -1,6 +1,6 @@
 
 # DESIBAZZAR
-Full Stack E-Commerce MERN APP
+Full Stack E-Commerce MERN APP for India
 
 Backend .env file 
 
